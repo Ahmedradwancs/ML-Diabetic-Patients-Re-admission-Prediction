@@ -1,7 +1,7 @@
 # Diabetic Patients' Re-admission Prediction
 
 ## Course Information
-This project is part of the **DA380A HT24 Machine Learning** course.
+This project is part of the **DA380A HT24 Machine Learning** course at Kristianstad University.
 
 ## Project Overview
 This project aims to predict hospital readmissions for diabetic patients within 30 days post-discharge. Using a dataset of around 100,000 hospital records, we developed a machine learning pipeline to identify high-risk patients and optimize healthcare resource allocation.
